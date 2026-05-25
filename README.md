@@ -1,16 +1,63 @@
-## Hi there 👋
+# ObeautyCase
 
-<!--
-**ObeautyCase/Obeautycase** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Global OEM & ODM manufacturer focused on cosmetic cases, beauty storage solutions, travel bags, salon equipment, and cross-border product development.
 
-Here are some ideas to get you started:
+## About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ObeautyCase is a professional manufacturing brand specializing in:
+
+- Cosmetic Cases
+- Makeup Bags
+- Nail Cases
+- Salon Furniture
+- Travel Storage Solutions
+- OEM & ODM Production
+
+We support global beauty brands, wholesalers, distributors, and private-label projects with integrated manufacturing and export services.
+
+## Business Focus
+
+- OEM & ODM Manufacturing
+- Global Supply Chain
+- Product Development
+- Cross-border Operations
+- B2B Export Services
+- Beauty & Travel Industry Solutions
+
+## Global Markets
+
+Our products are exported to:
+
+- United States
+- United Kingdom
+- France
+- Brazil
+- South Korea
+- UAE
+- Europe & North America
+
+## Digital Infrastructure
+
+This GitHub profile is used for:
+
+- Product documentation
+- Manufacturing resources
+- Brand infrastructure
+- Technical deployment
+- Global business assets
+
+## Official Website
+
+https://obeautycase.com/
+
+## LinkedIn
+
+https://www.linkedin.com/in/dylan-lin-31366a3a5/
+
+## Location
+
+Foshan, Guangdong, China
+
+---
+
+ObeautyCase © Global OEM & ODM Manufacturing Infrastructure
