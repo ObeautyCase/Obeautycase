@@ -1,0 +1,148 @@
+# Operating System Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# IDE & Editor Files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+*.sublime-project
+*.iml
+.env.local
+.env.*.local
+
+# Node.js & NPM
+node_modules/
+npm-debug.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+yarn.lock
+.pnpm-lock.yaml
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+venv/
+ENV/
+env/
+
+# Ruby & Gems
+.bundle/
+.rubygems-credentials
+Gemfile.lock
+
+# Java & Build Tools
+*.class
+*.jar
+*.war
+*.ear
+target/
+.gradle/
+
+# Build & Compilation Output
+build/
+dist/
+*.o
+*.a
+*.so
+*.dll
+*.exe
+
+# Temporary Files
+*.tmp
+*.temp
+*.bak
+*.backup
+*.log
+*.log.*
+
+# Cache Directories
+.cache/
+.gradle
+.npm
+.eslintcache
+
+# OS-specific
+.AppleDouble
+.LSOverride
+Icon
+Zone.identifier
+
+# Sensitive Information (DO NOT COMMIT)
+.env
+.env.local
+.env.*.local
+secrets/
+*.key
+*.pem
+*.p12
+*.pfx
+credentials.json
+config.local.*
+private/
+
+# Manufacturing & Product Files (Optional - Uncomment if needed)
+# *.psd
+# *.ai
+# *.indd
+# *.sketch
+# *.xd
+
+# Backup Files
+*.bak
+*.orig
+*.backup
+~*
+
+# Compiled Documentation
+docs/_build/
+site/
+
+# Miscellaneous
+.tern-port
+.vuepress/dist
+.nitro/
+.next/
+out/
+.nuxt/
+dist/
+.cache/
+.output/
+.env
+.env.*
+!.env.example
