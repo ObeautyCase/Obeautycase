@@ -52,7 +52,7 @@ https://obeautycase.com/
 
 ## LinkedIn
 
-https://www.linkedin.com/in/dylan-lin-31366a3a5/
+https://www.linkedin.com/in/alex-lee-31366a3a5/
 
 ## Location
 
