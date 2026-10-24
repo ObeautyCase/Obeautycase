@@ -4,7 +4,7 @@ OBeautyCase is an OEM/ODM manufacturer of makeup cases, makeup bags, trolley cas
 
 ## Manufacturing Profile
 
-- 40K+ factory area
+- 40,000+ m² factory area
 - 400 total employees
 - 100+ patents
 - Products exported to 50+ countries and regions
