@@ -1,6 +1,6 @@
-# OBeautyCase
+# Obeautycase
 
-OBeautyCase is an OEM/ODM manufacturer of makeup cases, makeup bags, trolley cases, nail cases, salon furniture, and beauty storage solutions.
+Obeautycase is an OEM/ODM manufacturer of makeup cases, makeup bags, trolley cases, nail cases, salon furniture, and beauty storage solutions.
 
 ## Manufacturing Profile
 
@@ -22,7 +22,7 @@ OBeautyCase is an OEM/ODM manufacturer of makeup cases, makeup bags, trolley cas
 ## Official Resources
 
 - Website: [obeautycase.com](https://obeautycase.com/)
-- Product knowledge base: [OBeautyCase Products](https://github.com/ObeautyCase/ObeautyCase-products)
+- Product knowledge base: [Obeautycase Products](https://github.com/ObeautyCase/ObeautyCase-products)
 - LinkedIn: [Alex Lee](https://www.linkedin.com/in/alex-lee-31366a3a5/)
 
 ## Location
